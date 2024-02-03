@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/static/css/main.d6d4427e.css",
-    "main.js": "/static/js/main.36230f1a.js",
-    "static/js/592.0bcdb36a.chunk.js": "/static/js/592.0bcdb36a.chunk.js",
-    "static/media/ReelAudio.mp3": "/static/media/ReelAudio.8b692f762b3b6a8b30e0.mp3",
-    "static/media/dancing-bears.gif": "/static/media/dancing-bears.5f8a2b2e20d40572c220.gif",
-    "static/media/bear-teddy.gif": "/static/media/bear-teddy.12b932e9edee2466bd24.gif",
-    "index.html": "/index.html",
-    "main.d6d4427e.css.map": "/static/css/main.d6d4427e.css.map",
-    "main.36230f1a.js.map": "/static/js/main.36230f1a.js.map",
-    "592.0bcdb36a.chunk.js.map": "/static/js/592.0bcdb36a.chunk.js.map"
+    "main.css": "/My-Valentine/static/css/main.d6d4427e.css",
+    "main.js": "/My-Valentine/static/js/main.b064c1a6.js",
+    "static/js/592.0bcdb36a.chunk.js": "/My-Valentine/static/js/592.0bcdb36a.chunk.js",
+    "static/media/ReelAudio.mp3": "/My-Valentine/static/media/ReelAudio.8b692f762b3b6a8b30e0.mp3",
+    "static/media/dancing-bears.gif": "/My-Valentine/static/media/dancing-bears.5f8a2b2e20d40572c220.gif",
+    "static/media/bear-teddy.gif": "/My-Valentine/static/media/bear-teddy.12b932e9edee2466bd24.gif",
+    "index.html": "/My-Valentine/index.html",
+    "main.d6d4427e.css.map": "/My-Valentine/static/css/main.d6d4427e.css.map",
+    "main.b064c1a6.js.map": "/My-Valentine/static/js/main.b064c1a6.js.map",
+    "592.0bcdb36a.chunk.js.map": "/My-Valentine/static/js/592.0bcdb36a.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.d6d4427e.css",
-    "static/js/main.36230f1a.js"
+    "static/js/main.b064c1a6.js"
   ]
 }
